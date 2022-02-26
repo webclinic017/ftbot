@@ -1,0 +1,31 @@
+{
+  "strategy_name": "WmaCrossed",
+  "params": {
+    "buy": {
+      "buy_bb": 0.0,
+      "buy_rsi": 50
+    },
+    "sell": {
+      "sell_bb": 1.0,
+      "sell_rsi": 70
+    },
+    "protection": {},
+    "roi": {
+      "0": 0.279,
+      "1017": 0.146,
+      "1988": 0.036,
+      "2522": 0
+    },
+    "stoploss": {
+      "stoploss": -0.298
+    },
+    "trailing": {
+      "trailing_stop": true,
+      "trailing_stop_positive": 0.324,
+      "trailing_stop_positive_offset": 0.392,
+      "trailing_only_offset_is_reached": true
+    }
+  },
+  "ft_stratparam_v": 1,
+  "export_time": "2022-02-25 13:13:19.234027+00:00"
+}

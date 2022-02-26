@@ -27,6 +27,21 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+user_data/data/*
+user_data/data/binance/*
+user_data/backtest_results/*
+user_data/hyperopt_results/*
+user_data/hyperopts/*
+user_data/notebooks/*
+user_data/plot/*
+user_data/old_configs/
+user_data/configbusd_miles.json
+user_data/configbusd.json
+user_data/configusdt_miles.json
+user_data/configusdt.json
+user_data/hyperopt.lock
+.DS_Store
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
