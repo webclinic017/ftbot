@@ -1,5 +1,5 @@
 # ftbot
-freqtrade bot configuration for binance spot, with default strategy using WMA (Weighted Moving Average) crossed.
+freqtrade bot configuration for binance spot, with a default strategy using WMA (Weighted Moving Average) crossed.
 
 ## Pre-requisite
 - [Docker](https://docs.docker.com/get-docker/)
