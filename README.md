@@ -4,8 +4,8 @@ freqtrade bot configuration for binance spot, with default strategy using WMA (W
 ## Pre-requisite
 - [Docker](https://docs.docker.com/get-docker/)
 
-## Backtesting on selected pairs from 2021-2022 in 4h timeframe, initial capital 3000 USDT
-### BACKTESTING REPORT - Result for strategy WmaCrossed
+## Backtesting on selected pairs from 2021-2022 in 4h timeframe, with initial capital of 3000 USDT
+### BACKTESTING REPORT
 
 |       Pair |   Buys |   Avg Profit % |   Cum Profit % |   Tot Profit USDT |   Tot Profit % |     Avg Duration |   Win  Draw  Loss  Win% |
 |------------|--------|----------------|----------------|-------------------|----------------|------------------|-------------------------|
