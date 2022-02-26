@@ -1,0 +1,2 @@
+# ftbot
+freqtrade bot 
