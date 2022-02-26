@@ -85,18 +85,18 @@ freqtrade bot configuration for binance spot, with default strategy using WMA (W
 ### Step 1: [Required]
 Configure key & secret, for more info check [this](https://www.binance.com/en/support/faq/360002502072/)
 ```json
-...
+
       "exchange": {
         "name": "binance",
         "key": "",
         "secret": "",
-...
+
 ```
 
 ### Step 2: [Optional]
 Setup telegram token & chat_id, if you want to monitor and access the bot via telegram, use this.
 ```json
-...
+
     "telegram": {
         "enabled": false,
         "token": "",
